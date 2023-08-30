@@ -41,7 +41,7 @@ This project involved a physically augmented recorder that saught to provide an 
 
 ### Pitch Tracking
 <p align="center">
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width="500"> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width="400"> 
    <p align="center">
       Early pitch tracking. Later displayed in Processing.
    </p>
@@ -52,8 +52,8 @@ This project involved a physically augmented recorder that saught to provide an 
 A couple iterations were used to augment a pair of gloves to help prepare the user of which holes to cover next. Testing proved the idea useless mainly because of sensory overload between each note, but also because of it being bulky to play with.
 
 <p align="center">
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/e7b2fa63-e954-44f9-bbc7-f67d78a02db4" alt="RotorGIF" width=""> 
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/873da17b-4640-451b-8d63-256e35c79124" alt="RotorGlove" width=""> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/e7b2fa63-e954-44f9-bbc7-f67d78a02db4" alt="RotorGIF" width="400"> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/873da17b-4640-451b-8d63-256e35c79124" alt="RotorGlove" width="345"> 
    <p align="center">
       Augmented gloves with motors attached to each finger providing haptic feedback. Depending on which holes to cover the motors would vibrate accordingly, a short time before the note should be played.
    </p>
