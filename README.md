@@ -25,16 +25,38 @@ This project involved a physically augmented recorder that saught to provide an 
 * Fully portable system.
 
 
-<img width="415" alt="Screenshot 2023-08-30 at 14 19 30" src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/f044b552-024c-4763-bc4e-ef9e745014c5">
-
 ## Physical Augmentations
 * Thin copper sheets surrounding holes for touch recognition.
 * Mounted microphone for tracking pitch.
 * Mounted ESP32 for transmitting sonsory information via bluetooth.
 
 <p align="center">
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/f044b552-024c-4763-bc4e-ef9e745014c5" alt="AssembledRecorder" width=""> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/f044b552-024c-4763-bc4e-ef9e745014c5" alt="AssembledRecorder" width="415"> 
    <p align="center">
       Assembled recorder. Copper cutouts and microphone are connected to the ESP32.
    </p>
 </p>
+
+## Early Iterations
+
+### Pitch Tracking
+<p align="center">
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width=""> 
+   <p align="center">
+      Early pitch tracking. Later displayed in Processing.
+   </p>
+</p>
+
+### Augmented Gloves
+
+A couple iterations were used to augment a pair of gloves to help prepare the user of which holes to cover next. Testing proved the idea useless mainly because of sensory overload between each note, but also because of it being bulky to play with.
+
+<p align="center">
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/e7b2fa63-e954-44f9-bbc7-f67d78a02db4" alt="RotorGIF" width=""> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width=""> 
+   <p align="center">
+      Augmented gloves with motors attached to each finger providing haptic feedback. Depending on which holes to cover the motors would vibrate accordingly, a short time before the note should be played.
+   </p>
+</p>
+<img width="345" alt="Screenshot 2023-08-30 at 15 11 20" src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/873da17b-4640-451b-8d63-256e35c79124">
+
