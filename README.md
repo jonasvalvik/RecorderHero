@@ -33,7 +33,7 @@ This project involved a physically augmented recorder that saught to provide an 
 <p align="center">
 <img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/f044b552-024c-4763-bc4e-ef9e745014c5" alt="AssembledRecorder" width="415"> 
    <p align="center">
-      Assembled recorder. Copper cutouts and microphone are connected to the ESP32.
+      Assembled recorder. Copper cutouts and microphone are connected to the ESP32, which sends it as bluetooth information.
    </p>
 </p>
 
@@ -41,7 +41,7 @@ This project involved a physically augmented recorder that saught to provide an 
 
 ### Pitch Tracking
 <p align="center">
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width=""> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width="500"> 
    <p align="center">
       Early pitch tracking. Later displayed in Processing.
    </p>
@@ -53,10 +53,8 @@ A couple iterations were used to augment a pair of gloves to help prepare the us
 
 <p align="center">
 <img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/e7b2fa63-e954-44f9-bbc7-f67d78a02db4" alt="RotorGIF" width=""> 
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/3d169114-7559-4712-b8ab-c9219f8e7285" alt="EarlyTonation" width=""> 
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/873da17b-4640-451b-8d63-256e35c79124" alt="RotorGlove" width=""> 
    <p align="center">
       Augmented gloves with motors attached to each finger providing haptic feedback. Depending on which holes to cover the motors would vibrate accordingly, a short time before the note should be played.
    </p>
 </p>
-<img width="345" alt="Screenshot 2023-08-30 at 15 11 20" src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/873da17b-4640-451b-8d63-256e35c79124">
-
