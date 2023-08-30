@@ -1,5 +1,11 @@
 <h1 align="center">Recorder Hero - Gamified Learning</h1>
 
+<h2 align="center">
+
+University Project 
+
+</h2>
+
 <p align="center">
 
 <img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/8b99168a-136c-4477-9bca-cf6a99730a5b" alt="TitleImage" width="500">
