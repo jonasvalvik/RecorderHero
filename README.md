@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/8b99168a-136c-4477-9bca-cf6a99730a5b" alt="TitleImage" width="200">
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/8b99168a-136c-4477-9bca-cf6a99730a5b" alt="TitleImage" width="500">
 </p>
 
 ## Description
