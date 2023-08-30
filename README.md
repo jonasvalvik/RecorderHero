@@ -20,10 +20,16 @@ This project involved a physically augmented recorder that saught to provide an 
 * Tracking of fingering accuracy.
 * Provides the user with tonation feedback.
 * Sends sensory information to a connected computer via bluetooth.
-* Features "Twinkle Twinkle Little Star" and "My Heart Will Go On".
+* Features "Twinkle Twinkle Little Star" and "My Heart Will Go On" as playable songs.
 * Adjustable playback speed.
 * Fully portable system.
 
+<p align="center">
+<img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/488049cc-81d0-4c7c-8c70-1471c2ad6e22" alt="DemoGIF" width="400"> 
+   <p align="center">
+      Finished program. The user is shown where to put their fingers, and if their pitch is aligned with the corresponding notes. Points are rewarded if the sensory information being transmitted matches the notes of the program. 
+   </p>
+</p>
 
 ## Physical Augmentations
 * Thin copper sheets surrounding holes for touch recognition.
@@ -49,12 +55,12 @@ This project involved a physically augmented recorder that saught to provide an 
 
 ### Augmented Gloves
 
-A couple iterations were used to augment a pair of gloves to help prepare the user of which holes to cover next. Testing proved the idea useless mainly because of sensory overload between each note, but also because of it being bulky to play with.
+A couple iterations were used to augment a pair of gloves to help prepare the user with fingering. Testing proved the idea useless mainly because of sensory overload between each note, but also because of it being bulky to play with.
 
 <p align="center">
 <img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/e7b2fa63-e954-44f9-bbc7-f67d78a02db4" alt="RotorGIF" width="400"> 
 <img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/873da17b-4640-451b-8d63-256e35c79124" alt="RotorGlove" width="345"> 
    <p align="center">
-      Augmented gloves with motors attached to each finger providing haptic feedback. Depending on which holes to cover the motors would vibrate accordingly, a short time before the note should be played.
+      Augmented gloves with motors attached to each finger providing haptic feedback. Depending on which holes to cover the motors would vibrate accordingly shortly before the corresponding note should be played.
    </p>
 </p>
