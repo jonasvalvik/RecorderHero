@@ -40,7 +40,7 @@ This project involved a physically augmented recorder that saught to provide an 
 ## Physical Augmentations
 * Thin copper sheets surrounding holes for touch recognition.
 * Mounted microphone for tracking pitch.
-* Mounted ESP32 for transmitting sonsory information via bluetooth.
+* Mounted ESP32 for transmitting sensory information via bluetooth.
 
 <p align="center">
 <img src="https://github.com/jonasvalvik/RecorderHero/assets/6436680/f044b552-024c-4763-bc4e-ef9e745014c5" alt="AssembledRecorder" width="415"> 
